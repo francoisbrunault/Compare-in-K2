@@ -6,7 +6,7 @@
 
 This repository contains PARI/GP scripts to prove relations in $K_2$ of elliptic curves. They are used in the appendix (by F. Brunault) of the preprint
 
-M. Asakura, M. Chida, [A numerical approach toward the $p$-adic Beilinson conjecture for elliptic curves over $\mathbb{Q}$] (https://arxiv.org/abs/2003.08888)
+M. Asakura, M. Chida, [A numerical approach toward the $p$-adic Beilinson conjecture for elliptic curves over $\mathbb{Q}$](https://arxiv.org/abs/2003.08888)
 
 In this appendix, we compare two elements in $K_2$ of the elliptic curve $X_0(24)$: the element $\xi$ in (6.10) and the Beilinson–Kato element. This comparison is used in the proof of Theorem 6.2.
 
