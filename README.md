@@ -41,9 +41,11 @@ returns
 [[[-3, [1]], [2, [2]]]]
 ```
 
-meaning that $-3[p] + 2[2p] = 0$ in $B_3(E) \otimes \mathbb{Q}$, where $p = (0,0)$ is the generator of $E(\mathbb{Q})_{\textrm{tors}}$ given by `elltors(E)[3]`.
+meaning that $-3[p] + 2[2p] = 0$ in $B_3(E) \otimes \mathbb{Q}$, where $p = (0,0)$ is the generator of $E(\mathbb{Q})_{\textrm{tors}}$ given by `elltors(E)[3]`. This implies the exotic relation $-3 D_E(p) + 2 D_E(2p) = 0$, where $D_E$ is the elliptic dilogarithm on $E$. More information can be obtained by typing instead
 
-This implies the exotic relation $-3 D_E(p) + 2 D_E(2p) = 0$, where $D_E$ is the elliptic dilogarithm on $E$.
+```
+relationsB3E(E, 1)
+```
 
 
 
