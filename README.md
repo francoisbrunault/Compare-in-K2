@@ -4,7 +4,7 @@
 
 *Date:* November 2022
 
-This repository contains PARI/GP scripts to prove relations in $K_2$ of elliptic curves. They are used in the appendix (by F. Brunault) of the article
+This repository contains PARI/GP scripts to prove relations in $K_2$ of elliptic curves. They are used in Appendix B (by F. Brunault) of the article
 
 M. Asakura, M. Chida, [A numerical approach toward the p-adic Beilinson conjecture for elliptic curves over Q](https://arxiv.org/abs/2003.08888). Research in the Mathematical Sciences (2023) 10:11.
 
